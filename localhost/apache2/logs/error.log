@@ -1,6 +1,5 @@
-[Fri Feb 02 15:01:19.700344 2018] [mpm_winnt:notice] [pid 3140:tid 424] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
-[Fri Feb 02 15:01:19.700344 2018] [mpm_winnt:notice] [pid 3140:tid 424] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
-[Fri Feb 02 15:01:19.700344 2018] [core:notice] [pid 3140:tid 424] AH00094: Command line: 'C:\\Users\\ITE152a-28\\Desktop\\localhost/apache2/bin/httpd_usbwv8.exe -d C:/Users/ITE152a-28/Desktop/localhost/apache2'
-[Fri Feb 02 15:01:19.711101 2018] [mpm_winnt:notice] [pid 3140:tid 424] AH00418: Parent: Created child process 4052
-[Fri Feb 02 15:01:19.986984 2018] [mpm_winnt:notice] [pid 4052:tid 416] AH00354: Child: Starting 64 worker threads.
-[Fri Feb 02 15:02:36.123207 2018] [:error] [pid 4052:tid 1020] [client ::1:2012] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_, referer: http://localhost/wordpress/wp-admin/setup-config.php?step=1
+[Fri Feb 02 15:58:56.625860 2018] [mpm_winnt:notice] [pid 1860:tid 472] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Fri Feb 02 15:58:56.626861 2018] [mpm_winnt:notice] [pid 1860:tid 472] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Fri Feb 02 15:58:56.626861 2018] [core:notice] [pid 1860:tid 472] AH00094: Command line: 'C:\\Users\\ITE152a-28\\Desktop\\wordpress\\localhost/apache2/bin/httpd_usbwv8.exe -d C:/Users/ITE152a-28/Desktop/wordpress/localhost/apache2'
+[Fri Feb 02 15:58:56.636866 2018] [mpm_winnt:notice] [pid 1860:tid 472] AH00418: Parent: Created child process 4368
+[Fri Feb 02 15:58:56.934106 2018] [mpm_winnt:notice] [pid 4368:tid 488] AH00354: Child: Starting 64 worker threads.
