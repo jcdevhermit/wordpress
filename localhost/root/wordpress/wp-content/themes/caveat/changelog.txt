@@ -1,0 +1,73 @@
+
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+Copyright http://styledthemes.com/
+
+----
+
+MAJOR version when you make major changes,
+MINOR version when you add features or functions
+PATCH version when you make bug fixes
+
+-------------------------------------------------------
+
+( November 30, 2016 ) Version 1.6.0 Styled Themes <www.styledthemes.com>
+	
+	[+] Added hover effect
+	[+] changed screenshot
+
+22th November 2016-Version 1.5.0 Released StyledThemes <www.http://styledthemes.com/>
+
+	- integrated woocommerce in theme
+
+11th November 2016-Version 1.2.0 Released StyledThemes <www.http://styledthemes.com/>
+
+	- changed the screenshot
+	- added move to top feature
+
+11th November 2016-Version 1.1.0 Released StyledThemes <www.http://styledthemes.com/>
+
+	- added customizer upsell link
+
+
+10th November 2016-Version 1.0.8 Released StyledThemes <www.http://styledthemes.com/>
+
+	- some escaping issues solved.
+	- blog page header title issue solved.
+	- added tags in style.css
+
+5th October 2016-Version 1.0.7 Released StyledThemes <www.http://styledthemes.com/>
+
+	- Third pary resource are prefixed with theme slug
+	- get_theme_mod() value is escaped when using on query function, get_the_title(), get_the_excerpt()
+	- Screenshot Changed
+
+4th October 2016-Version 1.0.6 Released StyledThemes <www.http://styledthemes.com/>
+
+	- changed the slicknav enque ID.
+
+3rd October 2016-Version 1.0.5 Released StyledThemes <www.http://styledthemes.com/>
+	- added the title attribute in title attributes.
+
+27th September 2016-Version 1.0.4 Released StyledThemes <www.http://styledthemes.com/>
+	- Removed unnecessary jquery enque.
+	- removed .mo and .po file.
+
+20th September 2016-Version 1.0.3 Released StyledThemes <www.http://styledthemes.com/>
+
+	- Language Translation issue fixed.
+	- function prefix and variable escaping bug fixed.
+
+14th September 2016-Version 1.0.2 Released StyledThemes <www.http://styledthemes.com/>
+
+	- Removed depriciated tags
+
+21th December 2016-Version 1.0.1 Released StyledThemes <www.http://styledthemes.com/>
+
+	- Language Translation issue fixed.
+	- function prefix and variable escaping but fixed.
+
+(May 04, 2016) Version 1.0 StyledThemes <www.http://styledthemes.com/>
+
+	Initial release
+

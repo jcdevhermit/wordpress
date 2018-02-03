@@ -1,5 +1,8 @@
-[Fri Feb 02 15:58:56.625860 2018] [mpm_winnt:notice] [pid 1860:tid 472] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
-[Fri Feb 02 15:58:56.626861 2018] [mpm_winnt:notice] [pid 1860:tid 472] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
-[Fri Feb 02 15:58:56.626861 2018] [core:notice] [pid 1860:tid 472] AH00094: Command line: 'C:\\Users\\ITE152a-28\\Desktop\\wordpress\\localhost/apache2/bin/httpd_usbwv8.exe -d C:/Users/ITE152a-28/Desktop/wordpress/localhost/apache2'
-[Fri Feb 02 15:58:56.636866 2018] [mpm_winnt:notice] [pid 1860:tid 472] AH00418: Parent: Created child process 4368
-[Fri Feb 02 15:58:56.934106 2018] [mpm_winnt:notice] [pid 4368:tid 488] AH00354: Child: Starting 64 worker threads.
+[Sat Feb 03 13:32:17.626709 2018] [mpm_winnt:notice] [pid 6056:tid 780] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Sat Feb 03 13:32:17.626709 2018] [mpm_winnt:notice] [pid 6056:tid 780] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Sat Feb 03 13:32:17.626709 2018] [core:notice] [pid 6056:tid 780] AH00094: Command line: 'D:\\Desktop\\wordpress\\localhost/apache2/bin/httpd_usbwv8.exe -d D:/Desktop/wordpress/localhost/apache2'
+[Sat Feb 03 13:32:17.642319 2018] [mpm_winnt:notice] [pid 6056:tid 780] AH00418: Parent: Created child process 10132
+[Sat Feb 03 13:32:18.298592 2018] [mpm_winnt:notice] [pid 10132:tid 792] AH00354: Child: Starting 64 worker threads.
+[Sat Feb 03 13:40:04.223007 2018] [:error] [pid 10132:tid 1312] [client ::1:2307] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\\Desktop\\wordpress\\localhost\\root\\wordpress\\wp-includes\\media.php on line 2836, referer: http://localhost/wordpress/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%2Fwordpress%2Fabout%2F&customize_changeset_uuid=
+[Sat Feb 03 13:40:04.224007 2018] [:error] [pid 10132:tid 1312] [client ::1:2307] PHP Warning:  imageantialias() expects parameter 1 to be resource, boolean given in D:\\Desktop\\wordpress\\localhost\\root\\wordpress\\wp-includes\\class-wp-image-editor-gd.php on line 285, referer: http://localhost/wordpress/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%2Fwordpress%2Fabout%2F&customize_changeset_uuid=
+[Sat Feb 03 13:40:04.224007 2018] [:error] [pid 10132:tid 1312] [client ::1:2307] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\\Desktop\\wordpress\\localhost\\root\\wordpress\\wp-includes\\class-wp-image-editor-gd.php on line 287, referer: http://localhost/wordpress/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%2Fwordpress%2Fabout%2F&customize_changeset_uuid=
