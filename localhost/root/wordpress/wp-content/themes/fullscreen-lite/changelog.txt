@@ -1,0 +1,32 @@
+= 1.0.8 =
+* WP 4.6.1 compatibale.
+* Added social link.
+* Updated Font Awesome Icons.
+
+= 1.0.7 =
+* Changed framework to customizer.
+* Updated Font Awesome Icons.
+
+= 1.0.6 =
+* Update home screen background image.
+
+= 1.0.5 =
+* Fixed 404 error for images.
+
+= 1.0.4 =
+* Fixed options layout.
+* Fixed escaping and sanitization of options.
+* Updated Font Awesome Icons.
+
+= 1.0.3 =
+* Added correct un-minified versions of Waypoints.js file.
+
+= 1.0.2 =
+* Added un-minified versions of files.
+
+= 1.0.1 =
+* Removed register_post_type function.
+* Added CSS file Licensing.
+
+= 1.0.0 =
+* Initial release

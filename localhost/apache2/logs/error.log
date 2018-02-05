@@ -1,5 +1,5 @@
-[Sat Feb 03 19:03:31.288426 2018] [mpm_winnt:notice] [pid 10332:tid 784] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
-[Sat Feb 03 19:03:31.288426 2018] [mpm_winnt:notice] [pid 10332:tid 784] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
-[Sat Feb 03 19:03:31.288426 2018] [core:notice] [pid 10332:tid 784] AH00094: Command line: 'D:\\Desktop\\wordpress\\localhost/apache2/bin/httpd_usbwv8.exe -d D:/Desktop/wordpress/localhost/apache2'
-[Sat Feb 03 19:03:31.288426 2018] [mpm_winnt:notice] [pid 10332:tid 784] AH00418: Parent: Created child process 3796
-[Sat Feb 03 19:03:31.944672 2018] [mpm_winnt:notice] [pid 3796:tid 788] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 05 10:18:36.120530 2018] [mpm_winnt:notice] [pid 13124:tid 800] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Mon Feb 05 10:18:36.120530 2018] [mpm_winnt:notice] [pid 13124:tid 800] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Mon Feb 05 10:18:36.120530 2018] [core:notice] [pid 13124:tid 800] AH00094: Command line: 'D:\\Desktop\\wordpress\\localhost/apache2/bin/httpd_usbwv8.exe -d D:/Desktop/wordpress/localhost/apache2'
+[Mon Feb 05 10:18:36.151790 2018] [mpm_winnt:notice] [pid 13124:tid 800] AH00418: Parent: Created child process 7148
+[Mon Feb 05 10:18:36.839296 2018] [mpm_winnt:notice] [pid 7148:tid 780] AH00354: Child: Starting 64 worker threads.
