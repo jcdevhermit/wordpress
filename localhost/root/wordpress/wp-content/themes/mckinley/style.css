@@ -4,7 +4,7 @@ Theme URI: http://themetrust.com/themes
 Author: ThemeTrust
 Author URI: http://themetrust.com/
 Description: McKinley is a sleek blog theme based on the awesome TwentyThirteen theme from WordPress.
-Version: 1.0.9
+Version: 1.1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, flexible-width, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
@@ -892,6 +892,8 @@ div.nav-menu > ul {
 	padding: 0 15px;
 	text-decoration: none;
 	font-weight: bold;
+	transition-property: opacity;
+	transition-duration: .4s;
 }
 
 .nav-menu li:hover > a,
@@ -903,13 +905,16 @@ div.nav-menu > ul {
 .nav-menu .children {
 	background: #323232;	
 	border-top: 0;
-	display: none;
+	visibility: hidden;
+	opacity: 0;
 	padding: 0;
 	position: absolute;
 	left: -2px;
 	z-index: 99999;
 	padding: 20px 0 20px 10px;
 	text-align: left !important;
+	transition-property: opacity, visibility;
+	transition-duration: .4s, .4s;
 }
 
 .nav-menu .sub-menu ul,
@@ -924,16 +929,22 @@ ul.nav-menu ul a,
 	color: #b4b4b4;
 	margin: 0;
 	width: 200px;
+	transition-property: opacity;
+	transition-duration: .4s;
 }
 
 ul.nav-menu ul a:hover,
+ul.nav-menu a:hover,
 .nav-menu ul ul a:hover {
 	color: #fff;
 }
 
+
+
 ul.nav-menu li:hover > ul,
 .nav-menu ul li:hover > ul {
-	display: block;
+	visibility: visible;
+	opacity: 1;
 }
 
 .nav-menu .current_page_item > a,
