@@ -1,7 +1,5 @@
-[Thu Feb 08 11:45:39.068473 2018] [mpm_winnt:notice] [pid 9652:tid 788] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
-[Thu Feb 08 11:45:39.068473 2018] [mpm_winnt:notice] [pid 9652:tid 788] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
-[Thu Feb 08 11:45:39.068473 2018] [core:notice] [pid 9652:tid 788] AH00094: Command line: 'D:\\Desktop\\wordpress\\localhost/apache2/bin/httpd_usbwv8.exe -d D:/Desktop/wordpress/localhost/apache2'
-[Thu Feb 08 11:45:39.085058 2018] [mpm_winnt:notice] [pid 9652:tid 788] AH00418: Parent: Created child process 4344
-[Thu Feb 08 11:45:40.905161 2018] [mpm_winnt:notice] [pid 4344:tid 780] AH00354: Child: Starting 64 worker threads.
-[Thu Feb 08 11:46:01.179181 2018] [:error] [pid 4344:tid 1296] [client ::1:3495] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in D:\\Desktop\\wordpress\\localhost\\root\\wordpress\\wp-admin\\includes\\class-wp-upgrader-skin.php on line 93, referer: http://localhost/wordpress/wp-cron.php?doing_wp_cron=1518061554.3797678947448730468750
-[Thu Feb 08 12:04:39.189679 2018] [:error] [pid 4344:tid 1300] [client ::1:3795] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\\Desktop\\wordpress\\localhost\\root\\wordpress\\wp-includes\\Requests\\Transport\\cURL.php on line 437, referer: http://localhost/wordpress/wp-cron.php?doing_wp_cron=1518062648.8081090450286865234375
+[Thu Feb 08 12:23:57.554769 2018] [mpm_winnt:notice] [pid 1924:tid 784] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Thu Feb 08 12:23:57.554769 2018] [mpm_winnt:notice] [pid 1924:tid 784] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Thu Feb 08 12:23:57.554769 2018] [core:notice] [pid 1924:tid 784] AH00094: Command line: 'D:\\Desktop\\wordpress\\localhost/apache2/bin/httpd_usbwv8.exe -d D:/Desktop/wordpress/localhost/apache2'
+[Thu Feb 08 12:23:57.554769 2018] [mpm_winnt:notice] [pid 1924:tid 784] AH00418: Parent: Created child process 6240
+[Thu Feb 08 12:23:58.070392 2018] [mpm_winnt:notice] [pid 6240:tid 796] AH00354: Child: Starting 64 worker threads.
