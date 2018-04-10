@@ -4,3 +4,6 @@ Version: '5.6.13'  socket: ''  port: 3307  MySQL Community Server (GPL)
 2018-02-02 20:47:43 128 [Note] Event Scheduler: Loaded 0 events
 2018-02-02 20:47:43 128 [Note] D:\Desktop\wordpress\localhost/mysql/bin/mysqld_usbwv8.exe: ready for connections.
 Version: '5.6.13'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2018-04-11 02:17:22 3840 [Note] Event Scheduler: Loaded 0 events
+2018-04-11 02:17:22 3840 [Note] C:\Users\JCRDo\Desktop\wordpress\localhost/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.13'  socket: ''  port: 3306  MySQL Community Server (GPL)
