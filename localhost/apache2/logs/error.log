@@ -3,3 +3,4 @@
 [Wed Apr 11 03:46:47.606200 2018] [core:notice] [pid 10104:tid 824] AH00094: Command line: 'C:\\Users\\JCRDo\\Desktop\\wordpress\\localhost/apache2/bin/httpd_usbwv8.exe -d C:/Users/JCRDo/Desktop/wordpress/localhost/apache2'
 [Wed Apr 11 03:46:47.684340 2018] [mpm_winnt:notice] [pid 10104:tid 824] AH00418: Parent: Created child process 1332
 [Wed Apr 11 03:46:48.190437 2018] [mpm_winnt:notice] [pid 1332:tid 668] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 11 03:51:49.635123 2018] [:error] [pid 1332:tid 1352] [client ::1:9104] script 'C:/Users/JCRDo/Desktop/wordpress/localhost/root/simpleblog/login.php' not found or unable to stat
